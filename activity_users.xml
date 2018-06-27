@@ -28,6 +28,12 @@
         android:layout_gravity="start"
         android:layout_marginBottom="40px" />
 
+    <Button
+        android:id="@+id/groupchatButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Group Chat" />
+
     <TextView
         android:id="@+id/textView"
         android:layout_width="match_parent"
